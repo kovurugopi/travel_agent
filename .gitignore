@@ -25,6 +25,20 @@ __pycache__/
 # Sensitive Data / Credentials
 *.pem
 *.key
+*.p12
+*.pfx
+*.jks
+*.keystore
 credentials.json
 client_secret.json
 secret.json
+service_account.json
+*.secret
+.env.*
+!.env.example
+token.json
+oauth_token.json
+api_keys.json
+secrets.yaml
+secrets.yml
+.secrets/
