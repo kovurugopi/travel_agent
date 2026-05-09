@@ -38,8 +38,8 @@ travel_planner_agent/
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd GoogleDevCamp
+   git clone https://github.com/kovurugopi/travel_agent.git
+   cd travel_agent
    ```
 
 2. Create and activate a virtual environment:
